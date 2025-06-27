@@ -1,0 +1,76 @@
+
+
+  UW PICO 5.09                                                                                                  File: exercise.txt                                                                                                  Modified  
+
+ Explain what the terminal is in your own words
+ It is a way of communicating with your computer locally.
+
+ What is the major difference between Git and GitHub?
+ Git works on your local machine while GitHub operates online.
+ 
+ What are the steps to fork a GitHub repository?
+ First, go to the URL of the target repository
+ Second, click on the 'fork' button on the top, right hand side of the screen
+ Lastly, when you land back on your personal space on Github, at the top, you should see your username/"name-of-the-repo-you-forked-from"
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                              
+^G Get Help                            ^O WriteOut                            ^R Read File                           ^Y Prev Pg                             ^K Cut Text                            ^C Cur Pos                             
+^X Exit                                ^J Justify                             ^W Where is                            ^V Next Pg                             ^U UnCut Text                          ^T To Spell                            
